@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwa-Karthik&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-Karthik&hide=css,swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-Karthik&hide=css,swift&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
