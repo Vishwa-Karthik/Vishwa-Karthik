@@ -1,6 +1,6 @@
 ### Hya 👋, Vishwa Karthik Here ...
 
-![](https://komarev.com/ghpvc/?username=Vishwa-Karthik&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Vishwa-Karthik&color=blueviolet&style=for-the-badge)
 
 <!--
 **Vishwa-Karthik/Vishwa-Karthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
